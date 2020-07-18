@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**incinerator17/incinerator17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+	<img width="60" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
+<p align="center"><strong>Not Loading? Your device has got a real problem.</strong></p>
+<p align="center">Kindly fix your device.</p>
+<p></p>
+<p align="center"><strong>Anyways you can find me here -</strong></p>
+<p align="center">
+<i>Telegram:</i> <a href="https://t.me/incineratorz"> <img alt="incinerator" width="17px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" >   @incineratorz </a> <strong>  -  -  -  </strong> <i> Twitter: </i> <a href="https://twitter.com/incinerator_17"> <img alt="incinerator's twitter" width="17px" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" > @incinerator_17 </a>
+</p>
+<p></p>
+<p></p>
+</p>
