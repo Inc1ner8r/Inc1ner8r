@@ -1,6 +1,6 @@
 <p align="center">
 	<img width="60" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
-<p align="center"><strong>Do tell me if this👆 loads for you.</strong></p>
+<p align="center">Do tell me if this👆 loads for you.</p>
 <p></p>
 <p align="center"><strong>Anyways you can find me here -</strong></p>
 <p align="center">
