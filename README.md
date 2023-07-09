@@ -14,7 +14,6 @@ Containerizing apps with **Docker and Docker-Compose**, hosting and managing the
 
 
 ***
-<br/>
 
 Currently Working with and learning **Blockcahin and Web3 technologies**.
 
