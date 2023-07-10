@@ -1,7 +1,3 @@
-<p align="center">
- <img src="https://w.wallhaven.cc/full/e7/wallhaven-e7mz5l.jpg">
-</p>
-
 # I'm Punarv aka Inc1ner8r!
 ### A Passionate Developer thriving to developing cutting-edge applications, contributing to open-source projects, or experimenting with emerging technologies.
 
