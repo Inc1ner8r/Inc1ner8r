@@ -13,7 +13,7 @@ Deploying with **Docker and Docker-Compose**, hosting and managing them in Cloud
 
 Currently Working with and learning **Blockcahin and Web3 technologies**.
 
-Daily driving **Arch Linux** and passionate about open source applications
+Passionate about open source applications // I use **Arch** btw
 
 ### Fun facts 😉
 
