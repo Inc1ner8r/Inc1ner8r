@@ -4,9 +4,9 @@
 ### I'm Proficient with: 
 Front-End in **ReactJS, NextJS, Tailwind**.
 
-Backend in Golang **(Gin-gonic, Mux)** and Javascript **(NodeJS)** with Authentication in **JWT, Paseto** and Database operations with **MySQL, PostgreSQL, Supabase, MongoDB**.
+Backend in Golang **(Gin-gonic, Mux)** and Javascript **(NodeJS)**.
 
-Containerizing apps with **Docker and Docker-Compose**, hosting and managing them in Cloud.
+Deploying with **Docker and Docker-Compose**, hosting and managing them in Cloud.
 
 
 ***
