@@ -2,7 +2,7 @@
 ### A Passionate Developer thriving to developing cutting-edge applications, contributing to open-source projects, or experimenting with emerging technologies.
 
 ### I'm Proficient with: 
-Front-End in **ReactJS, NextJS, Tailwind**.
+Front-End in **ReactJS, NextJS (Ts,Js), Tailwind**.
 
 Backend in Golang **(Gin-gonic, Mux)** and Javascript **(NodeJS)**.
 
