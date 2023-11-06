@@ -1,4 +1,4 @@
-# I'm Punarv aka Inc1ner8r!
+# I'm Punarv Pawade aka Inciner8r!
 ### A Passionate Developer thriving to developing cutting-edge applications, contributing to open-source projects, or experimenting with emerging technologies.
 
 ### I'm Proficient with: 
